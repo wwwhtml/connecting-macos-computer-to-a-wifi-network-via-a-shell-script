@@ -1,4 +1,4 @@
-# connecting-macos-computer-to-a-wifi-network-via-shell-script
+# Connecting a MacOS Computer to a Wi-Fi Network Via a Shell Script
 
 Script that asks for device name (ie: en0), SSID, and Password, then makes the connection.
 
