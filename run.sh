@@ -1,11 +1,11 @@
 #!/bin/bash
 # connects the local macos computer to a wifi network.
 # Reason to get this script together: Someone needed to set a headless MacMini on WiFi networks when he was on the road.
-# The offered solution given was to install rustdesk (https://rustdesk.com) on the MacMini,
-# and set it to automatically connect to his phone hotspot. 
-# In addition to that, the iPad also needed to have RustDesk, he could be able to connect to the MacMini 
-# and set the those on. the road WiFi networks that way.
+# The offered solution given was to install rustdesk (https://rustdesk.com) on the MacMini, and set it to automatically connect to his phone hotspot. 
+# In addition to that, the iPad also needed to have RustDesk install, so he could be able to connect to the MacMini 
+# and set the those on the road WiFi networks that way.
 # This script is an additional option, if manipulating the desktop remotely via the iPad were conversome.
+#
 # This script asks for the Wi-Fi Device (example: en0), the Wi-Fi's SSID, and the Wi-Fi's password. 
 # Then it proceeds to connect the device (MacMini in this case).  
 # Author: Daniel Arauz -Twitter: @danarauz - 2023-03-01
