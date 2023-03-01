@@ -10,6 +10,6 @@ and set it to automatically connect to his phone hotspot.
 In addition to that, the iPad also needed to have RustDesk install, so he could be able to connect to the MacMini 
 and set the those on the road WiFi networks that way.
 
-This script is an additional option, if manipulating the desktop remotely via the iPad were conversome.
+This script is an additional option, if manipulating the desktop remotely via the iPad were conversome, or if desconnected before inputing the on the road Wi-Fi password. 
 
 That's it. 
